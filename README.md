@@ -2,6 +2,8 @@
 
 ONNXRuntimeを使用したPiper TTSの実装
 
+piper1-gpl:https://github.com/OHF-Voice/piper1-gpl
+
 ## 概要
 
 このプロジェクトは、Piper TTSモデルをONNX Runtimeで実行するスタンドアロンの実装です。依存関係なしでPiper TTSを使用できます。
